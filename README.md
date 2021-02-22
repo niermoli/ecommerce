@@ -1,8 +1,10 @@
-Proyecto en grupo para SoyHenry
-
-
-Para levantar el proyecto, hacer npm install y luego npm start tanto en la carpeta "api" como en la carpeta "client".
-
-Está configurado para funcionar la api en el localhost:3000 y el client en el localhost:3001.# ecommerce
 # ecommerce
-# ecommerce
+
+Groupal e-commerce project designed for SoyHenry
+
+To upload the project, type "npm install" and then "npm start" on each of the "api" and on the "client" folders.
+
+It`s configured to work with the api at localhost:3000 and the client at localhost:3001.
+
+
+
